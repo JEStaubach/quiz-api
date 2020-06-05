@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "netlify-lambda serve src/lambda",
-    "build": "netlify-lambda build ssrc/lambda"
+    "build": "netlify-lambda build src/lambda"
   },
   "devDependencies": {
     "netlify-lambda": "^1.4.5"
